@@ -1,14 +1,26 @@
-# Orchis Dark Ulauncher
+# Ulauncher Orchis Orange Dark
 
-A theme for Ulauncher. Orchis Dark theme.
+Ulauncher Template with orange accent color.
 
-## Screenshot
-![](https://raw.githubusercontent.com/kleber-swf/orchis-dark-ulauncher/assets/screenshot.png)
+![Screenshot](.media/header.png)
 
-## Installation
+## 📥 Installation
 
-```sh
-mkdir -p ~/.config/ulauncher/user-themes
-git clone https://github.com/kleber-swf/orchis-dark-ulauncher.git \
-  ~/.config/ulauncher/user-themes/orchis-dark
-```
+1. Download latest version from [Release](https://github.com/Ni-g-3l/ulauncher-orchis-orange-dark/releases)
+2. Extract it
+3. Enter folder and run ```make install```
+
+## 🤹 Authors / Contributers / Attributions
+
+* **Ni-g-3l** - *Main Developer* - [Github](https://github.com/Ni-g-3l/)
+
+See also the list of [contributors](https://github.com/Ni-g-3l/rez-init/contributors) who participated in this project.
+
+## 📃 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👏 Acknowledgments
+
+* **Billie Thompson** - *README & Contribution Templates* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Kleber Swf** - *Base theme* - [Orchis Dark Ulauncher](https://github.com/kleber-swf/orchis-dark-ulauncher)
