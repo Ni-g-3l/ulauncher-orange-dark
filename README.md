@@ -14,7 +14,7 @@ Ulauncher Template with orange accent color.
 
 * **Ni-g-3l** - *Main Developer* - [Github](https://github.com/Ni-g-3l/)
 
-See also the list of [contributors](https://github.com/Ni-g-3l/rez-init/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/Ni-g-3l/ulauncher-orchis-orange-dark/contributors) who participated in this project.
 
 ## 📃 License
 
